@@ -1,6 +1,8 @@
 ### Description
+This website is build in React framework and it can be the sample porfolio site as well.
 
-<pre>* **My website Links :**</pre>
+* **Links:**
+<pre>My website Links</pre>
 [https://gazensuwal.com/](https://gazensuwal.com/)
 
 
