@@ -84,7 +84,7 @@ const dataportfolio = [
     link: "http://openaigpt.gazensuwal.com/",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://restaurantcafe.gazensuwal.com/static/media/welcome.d724eb984456d9c97470.png",
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "https://restaurantcafe.gazensuwal.com/",
@@ -153,7 +153,7 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "gajendr.suwal123@gmail.com",
+  YOUR_EMAIL: "gajendra.suwal123@gmail.com",
   YOUR_FONE: "(437)-972-0440",
   description:
     "I am passionate about creating beautiful, intuitive front-end frameworks and  back-end to create engaging and responsive web appplications. And always looking for ways to improve my skills , stay up to date with emerging technologies. ",
