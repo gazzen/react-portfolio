@@ -35,4 +35,5 @@ Modify pages content in  `src/content_option.js`.
 
 If you like this portfolio template don't forget give it a ⭐ 
 
-![alt text](url(&quot;https://pbs.twimg.com/profile_banners/1355241577531240451/1638263481/1500x500&quot;))
+![portfolio](https://user-images.githubusercontent.com/24693283/233456865-3f969e3b-ca3e-4854-a972-fb88ca344a6b.png)
+
