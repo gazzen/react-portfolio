@@ -35,4 +35,4 @@ Modify pages content in  `src/content_option.js`.
 
 If you like this portfolio template don't forget give it a ⭐ 
 
-![alt text](http://gazensuwal.com/to/portfolio.png)
+![alt text](url(&quot;https://pbs.twimg.com/profile_banners/1355241577531240451/1638263481/1500x500&quot;))
